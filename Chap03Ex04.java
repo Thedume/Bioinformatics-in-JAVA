@@ -1,6 +1,6 @@
 // Ex. Chap03Ex04 - 반복문, while-loop
 
-public class Chap04Ex04 {
+public class Chap03Ex04 {
     public static void main(String[] args) {
         int i = 0;
         String dna_seq = "acgtacgt";
