@@ -1,4 +1,4 @@
-// Chap03Ex06 - 역상보 서열 만들기 2
+// Chap03Ex07 - 역상보 서열 만들기 2
 
 public class Chap03Ex07 {
     public static void main(String[] args) {
