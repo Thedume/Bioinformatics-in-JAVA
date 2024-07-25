@@ -1,3 +1,4 @@
+package Chap03;
 // Ex. Chap03Ex05 - 반복문으로64가지의 DNA 뉴클리오타이드 생성
 
 public class Chap03Ex05 {

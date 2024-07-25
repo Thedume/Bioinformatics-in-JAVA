@@ -1,3 +1,4 @@
+package Chap03;
 // Ex. Chap03Ex04 - 반복문, while-loop
 
 public class Chap03Ex04 {

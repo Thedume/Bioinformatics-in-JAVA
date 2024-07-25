@@ -1,3 +1,4 @@
+package Chap03;
 // Ex. Chap03Ex03 - DNA 서열의 길이 비교
 
 public class Chap03Ex03 {

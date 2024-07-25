@@ -1,3 +1,4 @@
+package Chap03;
 public class Chap03Ex02 {
     public static void main(String[] args) {
         String dna_seq = "acgtacgt";

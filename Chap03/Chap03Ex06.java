@@ -1,3 +1,4 @@
+package Chap03;
 // Chap03Ex06 - 역상보 서열 만들기 1
 
 public class Chap03Ex06 {

@@ -1,3 +1,4 @@
+package Chap03;
 // Ex. Chap03Ex01
 
 public class Chap03Ex01 {

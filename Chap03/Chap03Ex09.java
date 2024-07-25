@@ -1,3 +1,4 @@
+package Chap03;
 // Chap03Ex09 - 실행 중에 대화식 방법으로 서열 입력받기
 
 public class Chap03Ex09 {
